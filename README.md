@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+
 
 <!---
 princeraj83958/princeraj83958 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
