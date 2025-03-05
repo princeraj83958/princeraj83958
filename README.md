@@ -27,10 +27,13 @@ Instagram	Instagram
 
 
 💻 My Skill stack :
-Front-End	HTML5 CSS3 JavaScript Bootstrap Tailwind
-Back-End	Django Flask RESTfulAPI
-Languages	Python Java C SQL
-Database	MySQL
-Tools	VS Code Git GitHub PyCharm Anaconda
+
+Front-End:- 	HTML5 CSS3 JavaScript Bootstrap 
+
+Languages:-	Python Java C SQL C++
+
+Database:-	MySQL
+
+Tools:-	VS Code Git GitHub PyCharm Anaconda
 
 
