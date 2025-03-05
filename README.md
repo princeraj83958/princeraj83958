@@ -14,16 +14,11 @@ Hi,  I'm Prince Raj, a passionate learner from Patna, Bihar, India!
 
 🚀 I’m currently looking for a Job with a role of Front End Web Developer.
 
-💬 Ask me about Python, Data Structure, HTML, CSS, JS.
+💬 Ask me about Java, C, Data Structure, HTML, CSS, JS.
 
 📧 How to reach me princeraj83958@gmail.com.
 
 
-
-🌐 Social Media Profiles
-Platform	Badge
-LinkedIn	LinkedIn
-Instagram	Instagram
 
 
 💻 My Skill stack :
